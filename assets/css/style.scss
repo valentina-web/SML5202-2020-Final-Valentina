@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+ background:red; 
+}
+  
 .main-content code { 
   font-size:1.1em; 
 }
