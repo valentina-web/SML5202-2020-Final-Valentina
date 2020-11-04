@@ -15,7 +15,7 @@ You will see a number of files are named with the .md file extension. That is: *
 
 * You still need to use HTML tags in your .md files, but only the tags you use in the body of the document. E.G.: `<h1>`, `<h2>`, `<p>`, `<hr>`, `<img>`, `<video>`, `<iframe>` etc..
 
-* The big advantage of .md files is that you won't affect the architecture and structure of your main HTML template.
+* The big advantage of .md files is that editing these won't affect the architecture and structure of your main HTML template. However, it's important to be aware of renaming these files. 
 
 ### Other essential files
 
@@ -23,4 +23,4 @@ You will see a number of files are named with the .md file extension. That is: *
 
 1. **Stylesheet** : In the folder **assets/css**, you will find the **style.scss** file. .scss is a varient of css and works in the same way. You can edit this file to create custom styles for your site. For example, you will be able to change the colours of your banner, and make any other style adjustments you choose.
 
-1. **Config file** : Finally, the **&#95;config.yml** file is a configuration file, where you modify the settings for your site.
+1. **Config file** : Finally, the **&#95;config.yml** file is a configuration file, where you modify the settings for your site. You also use this file to set the mappings for your pages to the navigation bar.
