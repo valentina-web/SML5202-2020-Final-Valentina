@@ -13,7 +13,7 @@ You will see a number of files are named with the .md file extension. That is: *
 
 * When you edit the .md files, you are only editing the content for the BODY part of your pages. The system will automatically insert the content of your md files into the HTML of your pages.
 
-* You still need to use HTML tags in your .md files, but only the tags you use in the body of the document. E.G.: `<h1>`, `<h2>`, `<p>`, `<hr>`, `<img>`, `<video>` etc. Etc.
+* You still need to use HTML tags in your .md files, but only the tags you use in the body of the document. E.G.: `<h1>`, `<h2>`, `<p>`, `<hr>`, `<img>`, `<video>`, `<iframe>` etc..
 
 * The big advantage of .md files is that you won't affect the architecture and structure of your main HTML template.
 
