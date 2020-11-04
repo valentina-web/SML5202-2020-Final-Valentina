@@ -16,7 +16,7 @@ font-family: 'Roboto', sans-serif;
 	padding-bottom: 48px;
 	text-align: center;
 	background: #392986;
-	color: antiquewhite;
+	color: aliceblue;
 	background-image: linear-gradient(120deg, #155799, #159957);
 	margin-bottom: 0px;
 }
@@ -39,5 +39,9 @@ footer {
 footer a {
 	color: #f7f7f7;
 	text-decoration: none;
+}
+
+footer a:hover {
+	color:antiquewhite;	
 }
 
