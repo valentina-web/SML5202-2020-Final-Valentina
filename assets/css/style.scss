@@ -29,10 +29,15 @@ font-family: 'Roboto', sans-serif;
 
 
  /* Footer styles. Set black background color, white text and some padding */
-    footer {
+footer {
       background-color: #555;
       color: white;
       padding: 15px;
       text-align:center; 
+}
+
+footer a {
+	color: #f7f7f7;
+	text-decoration: none;
 }
 
