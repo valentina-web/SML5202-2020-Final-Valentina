@@ -2,3 +2,37 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* SET FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+font-family: 'Roboto', sans-serif;
+}
+
+/* SET STYLES FOR BANNER */
+.jumbotron {
+	padding-top: 48px;
+	padding-bottom: 48px;
+	text-align: center;
+	background: #392986;
+	color: antiquewhite;
+	background-image: linear-gradient(120deg, #155799, #159957);
+	margin-bottom: 0px;
+}
+
+ /* remove rounded corners from navigation bar */
+.navbar {
+      /**margin-bottom: 0;**/
+      border-radius: 0;
+}
+
+
+ /* Footer styles. Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+      text-align:center; 
+}
+
