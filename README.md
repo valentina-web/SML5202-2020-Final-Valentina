@@ -1,4 +1,4 @@
-# template-2020
+# README template-2020
 ## How to use
 
 Look closely at the files in this repository. 
@@ -24,3 +24,5 @@ You will see a number of files are named with the .md file extension. That is: *
 1. **Stylesheet** : In the folder **assets/css**, you will find the **style.scss** file. .scss is a varient of css and works in the same way. You can edit this file to create custom styles for your site. For example, you will be able to change the colours of your banner, and make any other style adjustments you choose.
 
 1. **Config file** : Finally, the **&#95;config.yml** file is a configuration file, where you modify the settings for your site. You also use this file to set the mappings for your pages to the navigation bar.
+
+:smile:
