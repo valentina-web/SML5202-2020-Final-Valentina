@@ -22,10 +22,11 @@ font-family: 'Roboto', sans-serif;
 }
 
 .jumbotron h1 {
-	font-size: 63px;
+	font-size: 10vw;
 	margin: 0.4em 0;	
 }
 
+/***
 @media(max-width: 768px){
 .jumbotron h1 {
 font-size:31px!important;
@@ -35,7 +36,7 @@ font-size:31px!important;
 .jumbotron h1 {
 font-size:31px!important;
 }}
-
+***/
  /* remove rounded corners from navigation bar */
 .navbar {
       margin-bottom: 0;
