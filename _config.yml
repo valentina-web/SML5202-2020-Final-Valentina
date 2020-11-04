@@ -1,12 +1,11 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: My Language Learning Website
+description: This is the tag-line of my website.
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  page1: index.html #wait.html
-  page2: page2.html #wait.html
-  page3: page3.html #wait.html
-  page4: page4.html #wait.html
-  page5: page5.html #wait.html
+  page1: index.html
+  page2: page2.html
+  page3: page3.html
+  page4: page4.html
+  page5: page5.html
   
