@@ -26,18 +26,7 @@ font-family: 'Roboto', sans-serif;
 	margin: 0.4em 0;	
 }
 
-/***
-@media(max-width: 768px){
-.jumbotron h1 {
-font-size:31px!important;
-}}
-
-@media (max-width:525px){
-.jumbotron h1 {
-font-size:31px!important;
-}}
-***/
- /* remove rounded corners from navigation bar */
+/* remove rounded corners and margin from navigation bar */
 .navbar {
       margin-bottom: 0;
       border-radius: 0;
