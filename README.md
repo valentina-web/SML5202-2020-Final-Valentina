@@ -19,7 +19,7 @@ You will see a number of files are named with the .md file extension. That is: *
 
 ### Other essential files
 
-1. **HTML Template** : The HTML template file of your site is named **template.html** and is located in the **&#95;layouts** folder. You will only need to edit this slightly to name the labels of your navigation bar.  Apart from that, you won't need to edit the HTML template at all.
+1. **HTML Template** : The HTML template file of your site is named **default.html** and is located in the **&#95;layouts** folder. You will only need to edit this slightly to name the labels of your navigation bar.  Apart from that, you won't need to edit the HTML template at all.
 
 1. **Stylesheet** : In the folder **assets/css**, you will find the **style.scss** file. .scss is a varient of css and works in the same way. You can edit this file to create custom styles for your site. For example, you will be able to change the colours of your banner, and make any other style adjustments you choose.
 
