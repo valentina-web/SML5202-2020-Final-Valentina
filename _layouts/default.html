@@ -25,11 +25,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="jumbotron">
-        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-    </div>
-    
+       
     <!-- ADD NAV BAR -->
 <!-- THIS IS THE NAVIGATION BAR -->
 <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -60,6 +56,10 @@
 </nav>
     <!-- END NAV BAR -->
 
+<div class="jumbotron">
+        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+</div>
     
    <!-- <main id="content" class="main-content" role="main">-->
       <div class="container-fluid">
