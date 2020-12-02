@@ -6,7 +6,7 @@
       <a href="image/Map-of-Spanish-Speaking-Countries">
         <img src="images/Map-of-Spanish-Speaking-Countries.png" alt="img-map" style="width:100%">
         <div class="caption">
-          <p>Lorem ipsum...</p>
+          <p>Spanish is the second most spoken language in the world</p>
         </div>
       </a>
     </div>
@@ -16,7 +16,7 @@
       <a href="image/Hello.jpeg">
         <img src="images/Hello.jpeg" alt="img-word" style="width:100%">
         <div class="caption">
-          <p>Lorem ipsum...</p>
+          <p>No matter what Spanish speaking country you are in, the word word for hello is Hola</p>
         </div>
       </a>
     </div>
@@ -26,7 +26,7 @@
       <a href="image/vocabulary.jpg">
         <img src="images/vocabulary.jpg" alt="img-words" style="width:100%">
         <div class="caption">
-          <p>Lorem ipsum...</p>
+          <p>examples of vocabulary that is commonly used</p>
         </div>
       </a>
     </div>
