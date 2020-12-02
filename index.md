@@ -3,8 +3,8 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/Map-of-Spanish-Speaking-Countries">
-        <img src="image/Map-of-Spanish-Speaking-Countries.png" alt="img-map" style="width:100%">
+      <a href="image/Map-of-Spanish-Speaking-Countries">
+        <img src="images/Map-of-Spanish-Speaking-Countries.png" alt="img-map" style="width:100%">
         <div class="caption">
           <p>Lorem ipsum...</p>
         </div>
