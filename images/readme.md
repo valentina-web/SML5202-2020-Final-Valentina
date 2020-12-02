@@ -7,5 +7,7 @@ Then, in your HTML code, your image tag will be:
 
 <img scr='image/Map-of-Spanish-Speaking-Countries.png' alt='image-of-a-map' width="..." height="..."
 
+<img scr='image/Hello.jpeg' alt='image-of-word' width="..." height="..."
 
-<img scr='Hello.jpeg' alt='image-of-a-word' width="..." height="..."
+<img scr='image/vocabulary.jpg' alt='image-of-words' width="..." height="..."
+
