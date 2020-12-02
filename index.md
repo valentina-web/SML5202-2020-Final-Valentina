@@ -3,7 +3,7 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="image/Map-of-Spanish-Speaking-Countries">
+      <a href="images/Map-of-Spanish-Speaking-Countries">
         <img src="image/Map-of-Spanish-Speaking-Countries.png" alt="img-map" style="width:100%">
         <div class="caption">
           <p>Lorem ipsum...</p>
@@ -14,7 +14,7 @@
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="image/Hello.jpeg">
-        <img src="image/Hello.jpeg" alt="img-word" style="width:100%">
+        <img src="images/Hello.jpeg" alt="img-word" style="width:100%">
         <div class="caption">
           <p>Lorem ipsum...</p>
         </div>
