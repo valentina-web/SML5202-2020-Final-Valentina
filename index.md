@@ -13,8 +13,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="image/Spanish-Speaking-Countries.png">
-        <img src="image/Spanish-Speaking-Countries.png" style="width:100%">
+      <a href="image/Hello!.jpeg">
+        <img src="image/Hello!.jpeg" style="width:100%">
         <div class="caption">
           <p>Lorem ipsum...</p>
         </div>
