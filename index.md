@@ -23,8 +23,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/w3images/fjords.jpg">
-        <img src="/w3images/fjords.jpg" alt="Fjords" style="width:100%">
+      <a href="image/vocabulary.jpg">
+        <img src="images/vocabulary.jpg" alt="img-words" style="width:100%">
         <div class="caption">
           <p>Lorem ipsum...</p>
         </div>
