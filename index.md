@@ -26,7 +26,7 @@
       <a href="image/vocabulary.jpg">
         <img src="images/vocabulary.jpg" alt="img-words" style="width:100%">
         <div class="caption">
-          <p>examples of vocabulary that is commonly used</p>
+          <p>Examples of some vocabulary that is commonly used</p>
         </div>
       </a>
     </div>
