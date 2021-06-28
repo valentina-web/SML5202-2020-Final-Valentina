@@ -1,5 +1,7 @@
 <h1>Welcome</h1>
 
+<p>Welcome to 1 to 1 Spanish lessons. This website assists beginner learners of Spanish. It exposes them to the basics needed for one to learn Spanish, this includes grammatical and cultural features.<p>
+
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
