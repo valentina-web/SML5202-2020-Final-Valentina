@@ -18,7 +18,7 @@
       <a href="image/Hello.jpeg">
         <img src="images/Hello.jpeg" alt="img-word" style="width:100%">
         <div class="caption">
-          <p>No matter what Spanish speaking country you are in, the word word for hello is Hola</p>
+          <p>No matter what Spanish speaking country you are in, the word for hello is Hola</p>
         </div>
       </a>
     </div>
@@ -35,5 +35,5 @@
   </div>
 </div>
 
-<p>Here is a video that presents the vast amout of dialects and accents within the Spanish speaking world</p>
+<p>Here is a video that presents the vast amout of dialects and accents within the Spanish speaking world:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8DDrRjBqt-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
