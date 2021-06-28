@@ -6,14 +6,18 @@
   
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Spanish</th>
+    <th>English Translation</th>
+    <th>Person</th>
+    <th>Gender</th>
+    <th>formality</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>yo</td>
+    <td>I</td>
+    <td>First person</td>
+    <td> used for any gender </td>
+    <td> used for formal and informal situations</td>
   </tr>
   <tr>
     <td>Eve</td>
