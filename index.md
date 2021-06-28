@@ -1,6 +1,6 @@
 <h1>Welcome</h1>
 
-<p>Welcome to 1 to 1 Spanish lessons. This website assists beginner learners of Spanish. It exposes them to the basics needed for one to learn Spanish, this includes grammatical and cultural features.<p>
+<p>Welcome to 1 to 1 Spanish lessons. This website specifically targets begginer learners of Spanish. It exposes them to the basics needed for one to be able to learn the language, this includes grammatical and cultural features as presented above within the navigation menue ^ . The tagert audience is versitile, this website works for anyone starting their language learning journey in Spanish.<p>
 
 <div class="row">
   <div class="col-md-4">
