@@ -32,7 +32,7 @@ table, th, td {
     <td> Suitable for formal* and informal* situations</td>
   </tr>
   <tr>
-    <td>tu</td>
+    <td>tu*</td>
     <td>you</td>
     <td>Second person</td>
     <td>Singular</td>
@@ -48,7 +48,7 @@ table, th, td {
     <td>Informal</td>
   </tr>
   <tr>
-    <td>usted</td>
+    <td>usted*</td>
     <td>you</td>
     <td>Second person</td>
     <td>Singular</td>
@@ -96,7 +96,7 @@ table, th, td {
     <td>Suitable for informal and formal situations</td>
   </tr>
   <tr>
-    <td>vosotros</td>
+    <td>vosotros*</td>
     <td>you</td>
     <td>Second person</td>
     <td>Plural</td>
@@ -130,10 +130,13 @@ table, th, td {
 </table>
 
 
-<p>Side Note:<br> Formal* = certain vocabualry is classified as formal as it depends on who you are talking to. For example, within hispanic cultrue, when you are speaking to an elderly person such as your grandparents, one is supposed to use the Formal version of the infromal subject pronouns to address them, even when asking them a question.<br> Informal* = vocabulary classified as informal can be used for everday life, again depending on who you are speaking to</P> 
+<p>Side Note 1:<br> Formal* = certain vocabualry is classified as formal as it depends on who you are talking to. For example, within hispanic cultrue, when you are speaking to an elderly person such as your grandparents, one is supposed to use the Formal version of the infromal subject pronouns to address them, even when asking them a question.<br> Informal* = vocabulary classified as informal can be used for everday life, again depending on who you are speaking to</P> 
 
   
 <p> using the table above, test yourself with the informal and formal versions of subject pronouns:
+  
+
+<p> Side Note 2:<br> "tu" Vs "vos" = As demonstrated in the video on the home page of this website there are different dialects within the Spanish speaking world. There is a particular difference between the dialect used within Spain and Latin America. For instance, in this case, in Spain people use "tu" for you where as Latin Americans use "vos".<br> "vosotros" Vs "ustedes" = The same thing occurs with these two subject pronous for you (plural). In Spain people use "vosotros" and in Latin America people use "ustedes"<br> = For this reason I have included different types within the table above. </p>
 
 
 
