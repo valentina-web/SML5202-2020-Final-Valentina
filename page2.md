@@ -129,7 +129,12 @@ table, th, td {
  </tr>
 </table>
 
-<p>side note:<br> Formal* = what makes certain vocabulary formal depends on who you are talking to. For example, within hispanic cultrue, when you are speaking to an elderly person, one is supposed to use the Formal version of an informal word.</P>
+
+<p>Side Note:<br> Formal* = certain vocabualry is classified as formal as it depends on who you are talking to. For example, within hispanic cultrue, when you are speaking to an elderly person such as your grandparents, one is supposed to use the Formal version of the infromal subject pronouns to address them, even when asking them a question.<br> Informal* = vocabulary classified as informal can be used for everday life, again depending on who you are speaking to</P> 
+
+  
+<p> using the table above, test yourself with the informal and formal versions of subject pronouns:
+
 
 
 
