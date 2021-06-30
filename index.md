@@ -1,6 +1,6 @@
 <h1 style="color:black;"><b>Welcome</b></h1>
 
-<p style="color:black;","font-family:Verdana;">Welcome to 1 to 1 Spanish lessons. This website specifically targets beginner learners of Spanish. It exposes them to the basics needed for one to be able to learn the language, this includes grammatical and cultural features as presented above within the navigation menue ^ . The tagert audience is versatile, this website works for anyone starting their language learning journey in Spanish.<p>
+<p style="font-family:Verdana;" style="color:black;">Welcome to 1 to 1 Spanish lessons. This website specifically targets beginner learners of Spanish. It exposes them to the basics needed for one to be able to learn the language, this includes grammatical and cultural features as presented above within the navigation menue ^ . The tagert audience is versatile, this website works for anyone starting their language learning journey in Spanish.<p>
 
 <div class="row">
   <div class="col-md-4">
