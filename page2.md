@@ -1,8 +1,18 @@
-<h1>Grammar for Beginners</h1>
+<h1 style="color:black;"><b>Grammar for Beginners</b></h1>
 
-<p>Within this page, you will be introduced to some of the most important grammar rules in the Spanish Language.</p>
+<p style="color:black;">Within this page, you will be introduced to some of the most important grammar rules in the Spanish Language. Make sure to memories the following rules as they are essetnial to your understanding</p>
 
-<P>To begin with, here is a table which presents all the subject pronouns needed to express opnion or necessity about oneself or someone else, which are used on a daily basis<p>
+<P style="color:black;">To begin with, directly below there is a table that consists of all the subject pronouns needed to express opnion or necessity about oneself or someone else, which are used on a daily basis<p>
+
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
   
 <table style="width:100%">
   <tr>
